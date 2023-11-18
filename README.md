@@ -23,7 +23,7 @@
 
 <strong>Email info</strong>
 - https://haveibeenpwned.com/ - Check if your email address is in a data breach
-- https://dehashed.com/ - mails, password and personal data
+- https://dehashed.com/ - mails, passwords and other personal data
 
 <strong>Email headers info</strong>
 - https://toolbox.googleapps.com/apps/messageheader/analyzeheader
