@@ -13,7 +13,8 @@
 - https://censys.io/ - Maybe free Chinese Shodan
 
 <strong>URL info</strong>
-- https://www.virustotal.com/gui/home/url
+- https://www.virustotal.com/gui/home/url - Check if the website is infected
+- https://who.is/
 - https://urlscan.io/
 - https://www.url2png.com/
 - https://www.wannabrowser.net/
