@@ -32,5 +32,8 @@
 - https://mha.azurewebsites.net/
 - https://mailheader.org/
 
+<strong>Vulnerabilities</strong>
+- https://www.cvedetails.com/
+
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
