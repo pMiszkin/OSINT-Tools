@@ -36,5 +36,8 @@
 - https://www.cvedetails.com/
 - https://cve.mitre.org/
 
+<strong>Other</strong>
+- https://wiki.owasp.org/index.php/OWASP_favicon_database - OWASP favicon database
+
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
