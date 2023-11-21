@@ -16,7 +16,6 @@
 - https://www.virustotal.com/gui/home/url - Check if the website is infected
 - https://who.is/
 - https://urlscan.io/
-- https://www.url2png.com/
 - https://www.wannabrowser.net/ - Simulate any Browser
 - https://www.wappalyzer.com/ - Technologies used on websites
 - https://crt.sh/ - Certificate search
