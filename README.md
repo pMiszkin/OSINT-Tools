@@ -18,6 +18,7 @@
 - https://urlscan.io/
 - https://www.url2png.com/
 - https://www.wannabrowser.net/ - Simulate any Browser
+- https://www.wappalyzer.com/ - Technologies used on websites
 
 <strong>Subdomains info</strong>
 - https://www.subdomain.center/
