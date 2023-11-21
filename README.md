@@ -19,6 +19,7 @@
 - https://www.url2png.com/
 - https://www.wannabrowser.net/ - Simulate any Browser
 - https://www.wappalyzer.com/ - Technologies used on websites
+- https://crt.sh/ - Certificate search
 
 <strong>Subdomains info</strong>
 - https://www.subdomain.center/
