@@ -2,7 +2,7 @@
 <strong>Data archives</strong>
 - https://intelx.io/ - Big data archive
 - https://phonebook.cz/ - Mails and subdomains for the domain
-- https://github.com/danielmiessler/SecLists - Big, big, big seclist
+- https://github.com/danielmiessler/SecLists - Lots of free data
 
 <strong>Email info</strong>
 - https://haveibeenpwned.com/ - Check if your email address is in a data breach
