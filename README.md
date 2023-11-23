@@ -11,7 +11,7 @@
 <strong>Web scanners</strong>
 - https://www.shodan.io/ - Web scanner <code>country:pl has_screenshot:yes city:"Warszawa"</code>
 - https://www.zoomeye.org/ - Chinese Shodan
-- https://censys.io/ - Maybe free Chinese Shodan
+- https://censys.io/ - Prolly free Chinese Shodan
 
 <strong>URL info</strong>
 - https://www.virustotal.com/gui/home/url - Check if the website is infected
