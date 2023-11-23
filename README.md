@@ -40,6 +40,7 @@
 
 <strong>Other</strong>
 - https://wiki.owasp.org/index.php/OWASP_favicon_database - OWASP favicon database
+- https://hashcat.net/wiki/doku.php?id=example_hashes - Example hashes
 
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
