@@ -16,33 +16,33 @@
 - [Censys](https://censys.io/) - Prolly free Chinese Shodan
 
 <strong>URL info</strong>
-- https://www.virustotal.com/gui/home/url - Check if the website is infected
-- https://who.is/
-- https://urlscan.io/
-- https://www.wannabrowser.net/ - Simulate any Browser
-- https://www.wappalyzer.com/ - Technologies used on websites
-- https://crt.sh/ - Certificate search
+- [VirustTotal](https://www.virustotal.com/gui/home/url) - Check if the website is infected
+- [WHOIS](https://who.is/)
+- [URLscan](https://urlscan.io/)
+- [Wannabrowser](https://www.wannabrowser.net/) - Simulate any Browser
+- [Wappalyzer](https://www.wappalyzer.com/) - Technologies used on websites
+- [crt.sh](https://crt.sh/) - Certificate search
 
 <strong>Subdomains info</strong>
-- https://www.subdomain.center/
-- https://phonebook.cz/ - Mails and subdomains for the domain
+- [Subdomain Center](https://www.subdomain.center/)
+- [Phonebook.cz](https://phonebook.cz/) - Mails and subdomains for the domain
 
 <strong>IP info</strong>
-- https://www.abuseipdb.com/
-- https://ipinfo.io/
+- [AbuseIPDB](https://www.abuseipdb.com/)
+- [IPinfo](https://ipinfo.io/)
 
 <strong>Email headers info</strong>
-- https://toolbox.googleapps.com/apps/messageheader/analyzeheader
-- https://mha.azurewebsites.net/
-- https://mailheader.org/
+- [Messageheader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+- [Message Header Analyzer](https://mha.azurewebsites.net/)
+- [Analyze my mail header](https://mailheader.org/)
 
 <strong>Vulnerabilities</strong>
-- https://www.cvedetails.com/
-- https://cve.mitre.org/
+- [cvedetails.com](https://www.cvedetails.com/)
+- [cve.mitre.org](https://cve.mitre.org/)
 
 <strong>Other</strong>
-- https://wiki.owasp.org/index.php/OWASP_favicon_database - OWASP favicon database
-- https://hashcat.net/wiki/doku.php?id=example_hashes - Example hashes
+- [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database) - OWASP favicon database
+- [example_hashes hashcat wiki](https://hashcat.net/wiki/doku.php?id=example_hashes) - Example hashes
 
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
