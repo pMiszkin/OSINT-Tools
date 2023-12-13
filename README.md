@@ -41,8 +41,8 @@
 - [cve.mitre.org](https://cve.mitre.org/)
 
 <strong>Other</strong>
-- [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database) - OWASP favicon database
-- [example_hashes hashcat wiki](https://hashcat.net/wiki/doku.php?id=example_hashes) - Example hashes
+- [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
+- [example_hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - hashcat wiki
 
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
