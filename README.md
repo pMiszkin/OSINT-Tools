@@ -2,18 +2,18 @@
 
 # OSINT-Online-Resources
 <strong>Data archives</strong>
-- https://intelx.io/ - Big data archive
-- https://phonebook.cz/ - Mails and subdomains for the domain
-- https://github.com/danielmiessler/SecLists - Lots of free data
+- [Intelligence X](https://intelx.io/) - Big data archive
+- [Phonebook.cz](https://phonebook.cz/) - Mails and subdomains for the domain
+- [Seclists](https://github.com/danielmiessler/SecLists) - Lots of free data
 
 <strong>Email info</strong>
-- https://haveibeenpwned.com/ - Check if your email address is in a data breach
-- https://dehashed.com/ - Mails, passwords and other personal data
+- [Have i Been Pwned](https://haveibeenpwned.com/) - Check if your email address is in a data breach
+- [DeHashed](https://dehashed.com/) - Mails, passwords and other personal data
 
 <strong>Web scanners</strong>
-- https://www.shodan.io/ - Web scanner <code>country:pl has_screenshot:yes city:"Warszawa"</code>
-- https://www.zoomeye.org/ - Chinese Shodan
-- https://censys.io/ - Prolly free Chinese Shodan
+- [Shodan Search Engine](https://www.shodan.io/) - Web scanner <code>country:pl has_screenshot:yes city:"Warszawa"</code>
+- [ZoomEye](https://www.zoomeye.org/) - Chinese Shodan
+- [Censys](https://censys.io/) - Prolly free Chinese Shodan
 
 <strong>URL info</strong>
 - https://www.virustotal.com/gui/home/url - Check if the website is infected
