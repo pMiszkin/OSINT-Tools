@@ -42,6 +42,9 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 - [cvedetails.com](https://www.cvedetails.com/)
 - [cve.mitre.org](https://cve.mitre.org/)
 
+<storng>Geolocation</strong>
+- [Find location by picture](https://geospy.ai/)
+
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
 - [example_hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - hashcat wiki
