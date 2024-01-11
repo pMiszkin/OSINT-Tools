@@ -52,4 +52,6 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
 
+//todo https://tryhackme.com/room/threatinteltools make soc osint defence tools
+
 Leave a :star:
