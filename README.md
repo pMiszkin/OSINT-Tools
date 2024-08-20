@@ -46,7 +46,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 - [Find location by picture](https://geospy.ai/)
 
 <strong>Ppl info</strong>
-- [doxbin.com](https://doxbin.com/)
+- [doxbin.com](https://doxbin.com/) :skull:
 
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
