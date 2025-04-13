@@ -48,6 +48,11 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Ppl info</strong>
 - [doxbin.com](https://doxbin.com/) :skull:
 
+  <strong>Find where a given username appears</strong>
+- [whatsmyname.app](https://whatsmyname.app/) - all the internet
+- [https://www.namecheckr.com/](https://www.namecheckr.com/) - social media
+- 
+
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
 - [example_hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - hashcat wiki
