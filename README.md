@@ -12,6 +12,17 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 - [Have i Been Pwned](https://haveibeenpwned.com/) - Check if your email address is in a data breach
 - [DeHashed](https://dehashed.com/) - Mails, passwords and other personal data
 
+<strong>find leaked passwords by email, username, hash etc<strong?
+- [leakpeek.com](https://leakpeek.com/)
+- [leakcheck.io](https://leakcheck.io/)
+
+<strong>Find where a given username appears</strong>
+- [whatsmyname.app](https://whatsmyname.app/) - all the internet
+- [https://www.namecheckr.com/](https://www.namecheckr.com/) - social media
+
+<strong>Fin where email addres exists<stron>
+- [holehe](https://github.com/megadose/holehe)
+
 <strong>Web scanners</strong>
 - [Shodan Search Engine](https://www.shodan.io/) - Web scanner <code>country:pl has_screenshot:yes city:"Warszawa"</code>
 - [ZoomEye](https://www.zoomeye.org/) - Chinese Shodan
@@ -47,13 +58,6 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 
 <strong>Ppl info</strong>
 - [doxbin.com](https://doxbin.com/) :skull:
-
-  <strong>Find where a given username appears</strong>
-- [whatsmyname.app](https://whatsmyname.app/) - all the internet
-- [https://www.namecheckr.com/](https://www.namecheckr.com/) - social media
-
-<strong>Fin where email addres exists<stron>
-- [holehe](https://github.com/megadose/holehe)
 
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
