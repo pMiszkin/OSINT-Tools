@@ -51,7 +51,9 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
   <strong>Find where a given username appears</strong>
 - [whatsmyname.app](https://whatsmyname.app/) - all the internet
 - [https://www.namecheckr.com/](https://www.namecheckr.com/) - social media
-- 
+
+<strong>Fin where email addres exists<stron>
+- [holehe](https://github.com/megadose/holehe)
 
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
