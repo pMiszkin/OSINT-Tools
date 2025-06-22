@@ -11,6 +11,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Email info</strong>
 - [Have i Been Pwned](https://haveibeenpwned.com/) - Check if your email address is in a data breach
 - [DeHashed](https://dehashed.com/) - Mails, passwords and other personal data
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolkit to check if an email address, username, or domain was compromised in a global Infostealer malware attack. 
 
 <strong>find leaked passwords by email, username, hash etc<strong?
 - [leakpeek.com](https://leakpeek.com/)
