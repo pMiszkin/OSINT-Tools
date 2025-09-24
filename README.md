@@ -70,6 +70,8 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Everything a Hacker needs to know about getting busted by the fed (From Federal Prison, 1997 😮)</strong>
 - [agentsteal.txt](http://web.textfiles.com/hacking/agentsteal.txt)
 
+
+
 //todo https://tryhackme.com/room/threatinteltools make soc osint defence tools
 
 Leave a :star:
