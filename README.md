@@ -63,6 +63,10 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
 - [example_hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - hashcat wiki
+  
+<strong>Web archives</strong>
+- [WaybackMachine](https://web.archive.org/)
+- [If some websites are banned or unavailable on WaybackMachine, you will very likely find them here.](https://archive.ph/)
 
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
