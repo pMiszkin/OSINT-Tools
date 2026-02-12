@@ -66,7 +66,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
   
 <strong>Web archives</strong>
 - [WaybackMachine](https://web.archive.org/)
-- [If some websites are banned or unavailable on WaybackMachine, you will very likely find them here.](https://archive.ph/)
+- [archive.today](https://archive.today/) - If some websites are banned or unavailable on WaybackMachine, you will very likely find them here.
 
 <strong>Million most popular Polish passwords</strong>
 - https://cert.pl/uploads/2022/01/hasla/resources/wordlist_pl.zip
