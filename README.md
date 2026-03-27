@@ -59,6 +59,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 
 <strong>Ppl info</strong>
 - [doxbin.com](https://doxbin.com/) :skull:
+- [People Finder](PeopleFinder.com)
 
 <strong>Other</strong>
 - [OWASP Favicon Database](https://wiki.owasp.org/index.php/OWASP_favicon_database)
