@@ -40,6 +40,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 <strong>Subdomains info</strong>
 - [Subdomain Center](https://www.subdomain.center/)
 - [Phonebook.cz](https://phonebook.cz/) - Mails and subdomains for the domain
+- [Sublist3r](https://github.com/aboul3la/Sublist3r.git) - enumerate subdomains
 
 <strong>IP info</strong>
 - [AbuseIPDB](https://www.abuseipdb.com/)
