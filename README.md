@@ -52,7 +52,7 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 - [Analyze my mail header](https://mailheader.org/)
 
 <strong>Vulnerabilities</strong>
-- [nvd.nist.gov](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) - National Vulnerability Database (i recommend this one)
+- [nvd.nist.gov](https://nvd.nist.gov/vuln/search#/nvd/home?resultType=records) - National Vulnerability Database
 - [cvedetails.com](https://www.cvedetails.com/)
 - [cve.mitre.org](https://cve.mitre.org/)
 
