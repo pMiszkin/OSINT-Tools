@@ -29,6 +29,9 @@ My collection of awesome, easy-to-use OSINT archives for hackers and penetration
 - [ZoomEye](https://www.zoomeye.org/) - Chinese Shodan
 - [Censys](https://censys.io/) - Prolly free Chinese Shodan
 
+<strong>Network Search</strong>
+- [wigle.net](https://wigle.net/search) - check the Advanced Search tab for information related to Wi-Fi
+
 <strong>URL info</strong>
 - [VirustTotal](https://www.virustotal.com/gui/home/url) - Check if the website is infected
 - [WHOIS](https://who.is/)
